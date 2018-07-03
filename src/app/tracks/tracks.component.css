@@ -1,0 +1,16 @@
+.card {
+    width: 400px;
+    margin: 10px;
+}
+
+.header-padding {
+    padding: 30px;
+}
+
+.player {
+    height: 40px;
+}
+
+tr:hover {
+    cursor: pointer;
+}
